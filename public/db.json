@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Water, 500 ml",
+    "image": "https://i.ibb.co/2PyZMdJ/Image1.jpg",
+    "price": 300,
+    "id": "001"
+  },
+  {
+   "name": "Rice, 1000 g",
+   "image": "https://i.ibb.co/HtcNDm1/Image3.jpg",
+   "price": 250,
+   "id": "003"
+ },
+  {
+    "name": "Milk, 1000 ml",
+    "image": "https://i.ibb.co/J3Kq9Fj/image2.jpg",
+    "price": 1000,
+    "id": "002"
+  },
+
+  {
+    "name": "Croissant, 450 g",
+    "image": "https://i.ibb.co/D4qKZM1/Image4.png",
+    "price": 150,
+    "id": "004"
+  }
+]
